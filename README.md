@@ -1,4 +1,4 @@
-# An implementation of Object Recognition based on OpenCV and MobileNet-SSD v3
+# A python implementation of Object Recognition based on OpenCV and MobileNet-SSD v3
 Important PATHs:
 
 config_file = './config/ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt'
